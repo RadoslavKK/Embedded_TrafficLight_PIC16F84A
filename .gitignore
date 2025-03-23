@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow .java, .pom files
+!*.asm
+!*.pdf
+
+# Allow .gitignore itself
+!.gitignore
+
+# Allow these patterns to apply recursively in subdirectories
+!*/
