@@ -1,7 +1,7 @@
 # Ignore everything
 *
 
-# Allow .java, .pom files
+# Allow .asm, .pdf files
 !*.asm
 !*.pdf
 
